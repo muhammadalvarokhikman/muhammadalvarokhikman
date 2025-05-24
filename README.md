@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/63f6d91a-66a3-4a1c-8d84-736f42394001" width="100%"/>
+  <img src="https://github.com/user-attachments/assets/fc83d4c9-c451-45d4-88a5-eb81eb016f3c" width="100%"/>
 </p>
 
 # 🤖 Hey ML folks!
@@ -21,8 +21,8 @@ I'm Alvaro, focused on machine learning with a passion for building intelligent 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=muhammadalvarokhikman&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+### ✍️ True Motivation
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ancizar+Sans&weight=500&size=30&duration=4500&pause=1000&color=5DC4F7&width=435&lines=%22Consistency+and+Persistence%22)](https://git.io/typing-svg)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=muhammadalvarokhikman&limit=5&theme=transparent&combine_all_yearly_contributions=true)
