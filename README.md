@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/20e2a612-4cba-44f3-831f-889ac0eb33ee" width="100%"/>
+  <img src="https://github.com/user-attachments/assets/63f6d91a-66a3-4a1c-8d84-736f42394001" width="100%"/>
 </p>
 
 # 🤖 Hey ML folks!
