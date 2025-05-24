@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1x3niVN0aQDdyTyh-E0y1vxTyAmvDaknu" width="100%"/>
+  <img src="https://github.com/user-attachments/assets/20e2a612-4cba-44f3-831f-889ac0eb33ee" width="100%"/>
 </p>
-
 
 # 🤖 Hey ML folks!
 I'm Alvaro, focused on machine learning with a passion for building intelligent models to solve real-world problems and uncover meaningful insights from data. I specialize in designing, training, and deploying solutions that simplify complexity, drive innovation, and create impactful results. <br><br>Let’s connect and shape the future with machine learning!
